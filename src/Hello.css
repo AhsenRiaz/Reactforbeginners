@@ -1,0 +1,14 @@
+.myName{
+    background-color: salmon;
+    transition: 1s ease-in-out ;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
+.myName:hover{
+    transform: scaleY(2.0);
+    color: white;
+}
+    
